@@ -25,7 +25,7 @@ To view the example:
 2. GitHub will automatically render the Mermaid diagram inside the page.
 3. Scroll to see the full graph generated from the Star Wars sample data.
 
-This example dprovides a quick way to understand what the tool can do before you start editing your own data.
+This example provides a quick way to understand what the tool can do before you start editing your own data.
 
 ## How It Works
 
